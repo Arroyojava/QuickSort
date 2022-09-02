@@ -1,6 +1,4 @@
-/* Author: Jordan Arroyo
- * Date: 4/15/2022
- * Purpose: Implement a standard Java algorithm using pseudocode.
+/* * Purpose: Implement a standard Java algorithm using pseudocode.
  * 			Implemented QuickSort algorithm using Generics
  * Wiki Link: https://en.wikipedia.org/wiki/Quicksort
  * Filename: Quicksort_Algorithm.java
